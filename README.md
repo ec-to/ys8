@@ -5,7 +5,7 @@ https://raw.githubusercontent.com/ec-to/ys8/main/ys8.json
 
 ### 无🪜代理规则订阅地址
 ``` shell
-https://ghproxy.com/https://raw.githubusercontent.com/jdlingyu/ys8/main/ys9.json
+https://ghproxy.com/https://raw.githubusercontent.com/ec-to/ys8/main/ys9.json
 ```
 
 ### 下载规则
