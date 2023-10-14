@@ -11,6 +11,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/jdlingyu/ys8/main/ys9.json
 ### 下载规则
 ``` shell
 https://estar.lanzoum.com/y8s
+https://cowan.lanzoub.com/ihkLR16os6ne
 ```
 
 
